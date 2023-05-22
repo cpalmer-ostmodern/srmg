@@ -1,2 +1,0 @@
-# srmg
-AR example
