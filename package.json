@@ -2,17 +2,19 @@
   "name": "react-arjs-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cpalmer-ostmodern.github.io/srmg",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "aframe-react": "^4.4.0",
+    "arjs": "https://github.com/AR-js-org/AR.js.git#595a5c1c7020d3dd46f7082f63b5b7cca6d376e3",
+    "babel-polyfill": "^6.3.14",
+    "gh-pages": "^5.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "aframe-react": "^4.4.0",
-    "babel-polyfill": "^6.3.14",
-    "web-vitals": "^1.0.1",
-    "arjs": "https://github.com/AR-js-org/AR.js.git#595a5c1c7020d3dd46f7082f63b5b7cca6d376e3"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "test": "react-scripts test",
