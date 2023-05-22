@@ -30,9 +30,9 @@ export default class ARjsComp extends React.Component {
         <a-box rotation="45 90 180" position="0 0.5 0" color="white"></a-box>
         <a-box scale="1" position="-45 1.25 0" color="white"></a-box>
         <a-text
-          position="0 2 0"
+          position="0 0.5 0"
           text="value: HIA Magazine"
-          color="black"
+          color="white"
           rotation="-90 0 0"
         ></a-text>
       </a-marker>
