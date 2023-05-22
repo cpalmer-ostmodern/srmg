@@ -27,6 +27,7 @@ export default class ARjsComp extends React.Component {
       arjs="sourceType: webcam; debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;"
     >
       <a-marker type="barcode" value="7">
+        <a-box rotation="45 90 180" position="0 0.5 0" color="white"></a-box>
         <a-box scale="1" position="-45 1.25 0" color="white"></a-box>
         <a-text
           position="0 2 0"
